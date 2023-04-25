@@ -1,0 +1,31 @@
+{
+  "name": "odd-even-number-checker",
+  "version": "1.0.0",
+  "description": "Checks if a number is even or odd.",
+  "main": "index.js",
+  "engines": {
+    "node": ">14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyatteau/odd-even-number-checker.git"
+  },
+  "keywords": [
+    "odd",
+    "even",
+    "number"
+  ],
+  "author": "Courtney Yatteau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyatteau/odd-even-number-checker/issues"
+  },
+  "homepage": "https://github.com/cyatteau/odd-even-number-checker#readme"
+}
